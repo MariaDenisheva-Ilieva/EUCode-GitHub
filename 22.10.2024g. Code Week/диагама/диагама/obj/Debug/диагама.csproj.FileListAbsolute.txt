@@ -1,0 +1,28 @@
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\диагама\диагама\bin\Debug\диагама.exe.config
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\диагама\диагама\bin\Debug\диагама.exe
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\диагама\диагама\bin\Debug\диагама.pdb
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\диагама\диагама\obj\Debug\диагама.csproj.AssemblyReference.cache
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\диагама\диагама\obj\Debug\диагама.Form1.resources
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\диагама\диагама\obj\Debug\диагама.Form2.resources
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\диагама\диагама\obj\Debug\диагама.Form3.resources
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\диагама\диагама\obj\Debug\диагама.Form4.resources
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\диагама\диагама\obj\Debug\диагама.Form5.resources
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\диагама\диагама\obj\Debug\диагама.Properties.Resources.resources
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\диагама\диагама\obj\Debug\диагама.csproj.GenerateResource.cache
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\диагама\диагама\obj\Debug\диагама.csproj.CoreCompileInputs.cache
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\диагама\диагама\obj\Debug\диагама.exe
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\диагама\диагама\obj\Debug\диагама.pdb
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\диагама\диагама\bin\Debug\диагама.exe.config
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\диагама\диагама\bin\Debug\диагама.exe
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\диагама\диагама\bin\Debug\диагама.pdb
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\диагама\диагама\obj\Debug\диагама.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\диагама\диагама\obj\Debug\диагама.Form1.resources
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\диагама\диагама\obj\Debug\диагама.Form2.resources
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\диагама\диагама\obj\Debug\диагама.Form3.resources
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\диагама\диагама\obj\Debug\диагама.Form4.resources
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\диагама\диагама\obj\Debug\диагама.Form5.resources
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\диагама\диагама\obj\Debug\диагама.Properties.Resources.resources
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\диагама\диагама\obj\Debug\диагама.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\диагама\диагама\obj\Debug\диагама.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\диагама\диагама\obj\Debug\диагама.exe
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\диагама\диагама\obj\Debug\диагама.pdb

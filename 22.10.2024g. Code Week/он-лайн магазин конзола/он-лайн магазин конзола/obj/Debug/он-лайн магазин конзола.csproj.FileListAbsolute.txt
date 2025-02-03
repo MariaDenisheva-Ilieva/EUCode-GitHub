@@ -1,0 +1,14 @@
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\он-лайн магазин конзола\он-лайн магазин конзола\bin\Debug\он-лайн магазин конзола.exe.config
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\он-лайн магазин конзола\он-лайн магазин конзола\bin\Debug\он-лайн магазин конзола.exe
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\он-лайн магазин конзола\он-лайн магазин конзола\bin\Debug\он-лайн магазин конзола.pdb
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\он-лайн магазин конзола\он-лайн магазин конзола\obj\Debug\он-лайн магазин конзола.csproj.AssemblyReference.cache
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\он-лайн магазин конзола\он-лайн магазин конзола\obj\Debug\он-лайн магазин конзола.csproj.CoreCompileInputs.cache
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\он-лайн магазин конзола\он-лайн магазин конзола\obj\Debug\он-лайн магазин конзола.exe
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\он-лайн магазин конзола\он-лайн магазин конзола\obj\Debug\он-лайн магазин конзола.pdb
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\он-лайн магазин конзола\он-лайн магазин конзола\bin\Debug\он-лайн магазин конзола.exe.config
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\он-лайн магазин конзола\он-лайн магазин конзола\bin\Debug\он-лайн магазин конзола.exe
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\он-лайн магазин конзола\он-лайн магазин конзола\bin\Debug\он-лайн магазин конзола.pdb
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\он-лайн магазин конзола\он-лайн магазин конзола\obj\Debug\он-лайн магазин конзола.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\он-лайн магазин конзола\он-лайн магазин конзола\obj\Debug\он-лайн магазин конзола.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\он-лайн магазин конзола\он-лайн магазин конзола\obj\Debug\он-лайн магазин конзола.exe
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\он-лайн магазин конзола\он-лайн магазин конзола\obj\Debug\он-лайн магазин конзола.pdb

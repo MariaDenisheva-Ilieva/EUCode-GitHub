@@ -1,0 +1,10 @@
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\on-line магазин - WindowsForm\on-line магазин - WindowsForm\bin\Debug\on-line магазин - WindowsForm.exe.config
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\on-line магазин - WindowsForm\on-line магазин - WindowsForm\bin\Debug\on-line магазин - WindowsForm.exe
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\on-line магазин - WindowsForm\on-line магазин - WindowsForm\bin\Debug\on-line магазин - WindowsForm.pdb
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\on-line магазин - WindowsForm\on-line магазин - WindowsForm\obj\Debug\on-line магазин - WindowsForm.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\on-line магазин - WindowsForm\on-line магазин - WindowsForm\obj\Debug\on_line_магазин___WindowsForm.Form1.resources
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\on-line магазин - WindowsForm\on-line магазин - WindowsForm\obj\Debug\on_line_магазин___WindowsForm.Properties.Resources.resources
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\on-line магазин - WindowsForm\on-line магазин - WindowsForm\obj\Debug\on-line магазин - WindowsForm.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\on-line магазин - WindowsForm\on-line магазин - WindowsForm\obj\Debug\on-line магазин - WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\on-line магазин - WindowsForm\on-line магазин - WindowsForm\obj\Debug\on-line магазин - WindowsForm.exe
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\on-line магазин - WindowsForm\on-line магазин - WindowsForm\obj\Debug\on-line магазин - WindowsForm.pdb

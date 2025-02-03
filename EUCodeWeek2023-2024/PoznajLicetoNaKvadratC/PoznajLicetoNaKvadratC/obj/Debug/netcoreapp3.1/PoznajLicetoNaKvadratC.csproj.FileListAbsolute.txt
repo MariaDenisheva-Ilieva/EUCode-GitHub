@@ -1,0 +1,14 @@
+D:\GIMNAZIA-2023-2024g\EUCodeWeek\PoznajLicetoNaKvadratC\PoznajLicetoNaKvadratC\bin\Debug\netcoreapp3.1\PoznajLicetoNaKvadratC.exe
+D:\GIMNAZIA-2023-2024g\EUCodeWeek\PoznajLicetoNaKvadratC\PoznajLicetoNaKvadratC\bin\Debug\netcoreapp3.1\PoznajLicetoNaKvadratC.deps.json
+D:\GIMNAZIA-2023-2024g\EUCodeWeek\PoznajLicetoNaKvadratC\PoznajLicetoNaKvadratC\bin\Debug\netcoreapp3.1\PoznajLicetoNaKvadratC.runtimeconfig.json
+D:\GIMNAZIA-2023-2024g\EUCodeWeek\PoznajLicetoNaKvadratC\PoznajLicetoNaKvadratC\bin\Debug\netcoreapp3.1\PoznajLicetoNaKvadratC.runtimeconfig.dev.json
+D:\GIMNAZIA-2023-2024g\EUCodeWeek\PoznajLicetoNaKvadratC\PoznajLicetoNaKvadratC\bin\Debug\netcoreapp3.1\PoznajLicetoNaKvadratC.dll
+D:\GIMNAZIA-2023-2024g\EUCodeWeek\PoznajLicetoNaKvadratC\PoznajLicetoNaKvadratC\bin\Debug\netcoreapp3.1\PoznajLicetoNaKvadratC.pdb
+D:\GIMNAZIA-2023-2024g\EUCodeWeek\PoznajLicetoNaKvadratC\PoznajLicetoNaKvadratC\obj\Debug\netcoreapp3.1\PoznajLicetoNaKvadratC.csproj.AssemblyReference.cache
+D:\GIMNAZIA-2023-2024g\EUCodeWeek\PoznajLicetoNaKvadratC\PoznajLicetoNaKvadratC\obj\Debug\netcoreapp3.1\PoznajLicetoNaKvadratC.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIMNAZIA-2023-2024g\EUCodeWeek\PoznajLicetoNaKvadratC\PoznajLicetoNaKvadratC\obj\Debug\netcoreapp3.1\PoznajLicetoNaKvadratC.AssemblyInfoInputs.cache
+D:\GIMNAZIA-2023-2024g\EUCodeWeek\PoznajLicetoNaKvadratC\PoznajLicetoNaKvadratC\obj\Debug\netcoreapp3.1\PoznajLicetoNaKvadratC.AssemblyInfo.cs
+D:\GIMNAZIA-2023-2024g\EUCodeWeek\PoznajLicetoNaKvadratC\PoznajLicetoNaKvadratC\obj\Debug\netcoreapp3.1\PoznajLicetoNaKvadratC.csproj.CoreCompileInputs.cache
+D:\GIMNAZIA-2023-2024g\EUCodeWeek\PoznajLicetoNaKvadratC\PoznajLicetoNaKvadratC\obj\Debug\netcoreapp3.1\PoznajLicetoNaKvadratC.dll
+D:\GIMNAZIA-2023-2024g\EUCodeWeek\PoznajLicetoNaKvadratC\PoznajLicetoNaKvadratC\obj\Debug\netcoreapp3.1\PoznajLicetoNaKvadratC.pdb
+D:\GIMNAZIA-2023-2024g\EUCodeWeek\PoznajLicetoNaKvadratC\PoznajLicetoNaKvadratC\obj\Debug\netcoreapp3.1\PoznajLicetoNaKvadratC.genruntimeconfig.cache

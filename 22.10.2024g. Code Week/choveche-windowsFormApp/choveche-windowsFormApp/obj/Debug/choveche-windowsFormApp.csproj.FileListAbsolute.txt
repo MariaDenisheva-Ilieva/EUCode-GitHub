@@ -1,0 +1,20 @@
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\choveche-windowsFormApp\choveche-windowsFormApp\bin\Debug\choveche-windowsFormApp.exe.config
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\choveche-windowsFormApp\choveche-windowsFormApp\bin\Debug\choveche-windowsFormApp.exe
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\choveche-windowsFormApp\choveche-windowsFormApp\bin\Debug\choveche-windowsFormApp.pdb
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\choveche-windowsFormApp\choveche-windowsFormApp\obj\Debug\choveche_windowsFormApp.Form1.resources
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\choveche-windowsFormApp\choveche-windowsFormApp\obj\Debug\choveche_windowsFormApp.Properties.Resources.resources
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\choveche-windowsFormApp\choveche-windowsFormApp\obj\Debug\choveche-windowsFormApp.csproj.GenerateResource.cache
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\choveche-windowsFormApp\choveche-windowsFormApp\obj\Debug\choveche-windowsFormApp.csproj.CoreCompileInputs.cache
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\choveche-windowsFormApp\choveche-windowsFormApp\obj\Debug\choveche-windowsFormApp.exe
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\choveche-windowsFormApp\choveche-windowsFormApp\obj\Debug\choveche-windowsFormApp.pdb
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\choveche-windowsFormApp\choveche-windowsFormApp\obj\Debug\choveche-windowsFormApp.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\choveche-windowsFormApp\choveche-windowsFormApp\bin\Debug\choveche-windowsFormApp.exe.config
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\choveche-windowsFormApp\choveche-windowsFormApp\bin\Debug\choveche-windowsFormApp.exe
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\choveche-windowsFormApp\choveche-windowsFormApp\bin\Debug\choveche-windowsFormApp.pdb
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\choveche-windowsFormApp\choveche-windowsFormApp\obj\Debug\choveche-windowsFormApp.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\choveche-windowsFormApp\choveche-windowsFormApp\obj\Debug\choveche_windowsFormApp.Form1.resources
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\choveche-windowsFormApp\choveche-windowsFormApp\obj\Debug\choveche_windowsFormApp.Properties.Resources.resources
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\choveche-windowsFormApp\choveche-windowsFormApp\obj\Debug\choveche-windowsFormApp.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\choveche-windowsFormApp\choveche-windowsFormApp\obj\Debug\choveche-windowsFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\choveche-windowsFormApp\choveche-windowsFormApp\obj\Debug\choveche-windowsFormApp.exe
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\choveche-windowsFormApp\choveche-windowsFormApp\obj\Debug\choveche-windowsFormApp.pdb

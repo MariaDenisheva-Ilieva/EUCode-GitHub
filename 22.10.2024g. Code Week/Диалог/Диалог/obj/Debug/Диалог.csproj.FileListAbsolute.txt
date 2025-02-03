@@ -1,0 +1,39 @@
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\bin\Debug\Диалог.exe.config
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\bin\Debug\Диалог.exe
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\bin\Debug\Диалог.pdb
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\obj\Debug\Диалог.csproj.AssemblyReference.cache
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\obj\Debug\Диалог.Form1.resources
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\obj\Debug\Диалог.Properties.Resources.resources
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\obj\Debug\Диалог.csproj.GenerateResource.cache
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\obj\Debug\Диалог.csproj.CoreCompileInputs.cache
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\obj\Debug\Диалог.exe
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\obj\Debug\Диалог.pdb
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\obj\Debug\Диалог.Form2.resources
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\obj\Debug\Диалог.Form3.resources
+C:\Users\User6\Desktop\EVROPEJSKA SEDMICA\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\obj\Debug\Диалог.Form4.resources
+D:\СЕДМИЦА НА ПРОГРАМИРАНЕТО\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\bin\Debug\Диалог.exe.config
+D:\СЕДМИЦА НА ПРОГРАМИРАНЕТО\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\bin\Debug\Диалог.exe
+D:\СЕДМИЦА НА ПРОГРАМИРАНЕТО\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\bin\Debug\Диалог.pdb
+D:\СЕДМИЦА НА ПРОГРАМИРАНЕТО\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\obj\Debug\Диалог.csproj.AssemblyReference.cache
+D:\СЕДМИЦА НА ПРОГРАМИРАНЕТО\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\obj\Debug\Диалог.Form1.resources
+D:\СЕДМИЦА НА ПРОГРАМИРАНЕТО\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\obj\Debug\Диалог.Form2.resources
+D:\СЕДМИЦА НА ПРОГРАМИРАНЕТО\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\obj\Debug\Диалог.Form3.resources
+D:\СЕДМИЦА НА ПРОГРАМИРАНЕТО\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\obj\Debug\Диалог.Form4.resources
+D:\СЕДМИЦА НА ПРОГРАМИРАНЕТО\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\obj\Debug\Диалог.Properties.Resources.resources
+D:\СЕДМИЦА НА ПРОГРАМИРАНЕТО\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\obj\Debug\Диалог.csproj.GenerateResource.cache
+D:\СЕДМИЦА НА ПРОГРАМИРАНЕТО\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\obj\Debug\Диалог.csproj.CoreCompileInputs.cache
+D:\СЕДМИЦА НА ПРОГРАМИРАНЕТО\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\obj\Debug\Диалог.exe
+D:\СЕДМИЦА НА ПРОГРАМИРАНЕТО\ПРЕЗЕНТАЦИЯ-МАРИЯ ДЕНИШЕВА-ИЛИЕВА\Диалог\Диалог\obj\Debug\Диалог.pdb
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\Диалог\Диалог\bin\Debug\Диалог.exe.config
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\Диалог\Диалог\bin\Debug\Диалог.exe
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\Диалог\Диалог\bin\Debug\Диалог.pdb
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\Диалог\Диалог\obj\Debug\Диалог.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\Диалог\Диалог\obj\Debug\Диалог.Form1.resources
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\Диалог\Диалог\obj\Debug\Диалог.Form2.resources
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\Диалог\Диалог\obj\Debug\Диалог.Form3.resources
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\Диалог\Диалог\obj\Debug\Диалог.Form4.resources
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\Диалог\Диалог\obj\Debug\Диалог.Properties.Resources.resources
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\Диалог\Диалог\obj\Debug\Диалог.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\Диалог\Диалог\obj\Debug\Диалог.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\Диалог\Диалог\obj\Debug\Диалог.exe
+C:\Users\Maria\Desktop\22.10.2024g. Code Week\Диалог\Диалог\obj\Debug\Диалог.pdb
